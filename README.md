@@ -1,3 +1,1 @@
-The aim of the project is to analyze and answer some car rental questions in different states in united state.
-
-The dataset was obtained from kaggle.
+The project's objective is to analyze and address car rental-related inquiries across different states in the United States. The dataset, acquired from Kaggle, underwent a thorough cleaning process, and insights were extracted using Python for data analysis.
